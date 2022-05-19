@@ -1,0 +1,102 @@
+body
+{
+  font-family: 'Special Elite', cursive;
+  background: grey;
+}
+.header_div
+  {
+  background: white;
+  color: #ce2700; 
+  }
+    
+  
+  .copy_right_footer {
+   position: fixed;
+   color: #6c757d;
+   bottom: 0;
+   width: 100%;
+   background-color: #f5f5f5;
+   line-height: 3;
+   text-align: center;
+}
+
+h5
+{
+  background-color: white;
+  border-radius: 50%;
+}
+
+.mini_result1
+{
+  color: white;
+}
+
+.resultG1
+{
+  color: red;
+}
+
+.resultM1
+{
+  color: red;
+}
+
+.resultG2
+{
+  color: red;
+}
+
+.resultM2
+{
+  color: red;
+}
+
+.resultG3
+{
+  color: red;
+}
+
+.resultM3
+{
+  color: red;
+}
+
+.resultG4
+{
+  color: red;
+}
+
+.resultM4
+{
+  color: red;
+}
+
+.resultG5
+{
+  color: red;
+}
+
+.resultM5
+{
+  color: red;
+}
+
+.remark
+{
+  color: white;
+}
+
+.mobile_net
+{
+  color: purple;
+}
+
+.lens
+{
+  color: purple;
+}
+
+.google
+{
+  color: purple;
+}
